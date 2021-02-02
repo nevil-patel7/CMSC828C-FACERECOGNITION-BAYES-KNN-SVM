@@ -1,6 +1,7 @@
 # Face Recognition
 
 This project serves as a research and evaluation for different popular techniques such as:
+
 • ML estimation with Gaussian assumption followed by Bayes’ classification.
 • k-Nearest Neighbors (k-NN) rule.
 • Kernel SVM and Boosted SVM.
