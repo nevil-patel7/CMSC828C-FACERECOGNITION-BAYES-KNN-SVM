@@ -7,6 +7,7 @@ This project serves as a research and evaluation for different popular technique
 • Kernel SVM and Boosted SVM.
 • PCA followed by Bayes classifier and K-NN rule.
 • MDA followed by Bayes classifier and K-NN rule.
+
 Here different data sets were used to perform the different tasks such as binary classification and multiclass subject classification.
 
 # Run the code:
