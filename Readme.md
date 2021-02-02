@@ -17,8 +17,11 @@ OPEN THE FOLLOWING MATLAB (.M) FILES IN MATLAB RUN it.
 Requires the dataset in the same folder as .m files.
 
 BINARY CLASSIFICATION (Neutral vs facial expression classification):
+
 Bayesian + PCA + MDA classification task: BAYESIAN_BINARY.m (data.mat)
+
 KNN + PCA + MDA classification task: KNN_BINARY.M (data.mat)
+
 SVM + KERNEL SVM classification task: SVM_BINARY.m and SVM_KERNEL_BINARY.m (data.mat)
 
 MULTICLASS CLASSIFICATION:
